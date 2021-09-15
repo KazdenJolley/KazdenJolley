@@ -2,6 +2,7 @@
 
 ## About Me
 <br/>
+
 - I am a Full-Stack software engineer with two years of full-time experience.
 - I am currently working as a Freelance Google Workspace Developer on Upwork.
 - I enjoy people, reading, outdoors, food, and new experiences.
