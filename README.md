@@ -4,7 +4,7 @@
 <br/>
 
 - I am a Full-Stack software engineer with two years of full-time experience.
-- I am currently working as a Freelance Google Workspace Developer on Upwork.
+- I am currently working as a Full-Stack Engineer at Datafy.
 - I enjoy people, reading, outdoors, food, and new experiences.
 - Ask me about anything.
 - I love meeting with new people. Connect with me on [LinkedIn](https://www.linkedin.com/kazden-jolley/) to start a conversation.
