@@ -42,11 +42,11 @@
         <img height="65px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
       </td>
       <td align="center" width="25%">
-        <span>Node and Express</span><br><br><br>
+        <span><strong>Node.js</strong></span><br><br><br>
         <img height="65px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
       <td align="center" width="25%">
-        <span>Git</span><br><br><br>
+        <span><strong>Git</strong></span><br><br><br>
         <img height="65px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
     </tr>
