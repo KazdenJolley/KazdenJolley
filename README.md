@@ -3,8 +3,8 @@
 ## About Me
 <br/>
 
-- I am a Full-Stack software engineer with two years of full-time experience.
-- I am currently working as a Full-Stack Engineer at Datafy.
+- I am a Full-Stack software engineer with four years of full-time experience.
+- I am currently working as a Web Developer at Datafy.
 - I enjoy people, reading, outdoors, food, and new experiences.
 - Ask me about anything.
 - I love meeting with new people. Connect with me on [LinkedIn](https://www.linkedin.com/kazden-jolley/) to start a conversation.
@@ -16,22 +16,20 @@
   <tbody>
     <tr valign="top">
       <td align="center" width="25%">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="65px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td align="center" width="25%">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="65px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td align="center" width="25%">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <span><strong>JavaScript</strong></span><br><br><br>
         <img height="65px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td align="center" width="25%">
-        <span><strong>React</strong>
-        </span><br><br><br>
+        <span><strong>TypeScript</strong></span><br><br><br>
+        <img height="65px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
+      <td align="center" width="25%">
+        <span><strong>React</strong></span><br><br><br>
         <img height="65px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
+      <td align="center" width="25%">
+        <span><strong>Redux</strong></span><br><br><br>
+        <img height="65px" src="https://cdn.svgporn.com/logos/redux.svg">
     </tr>
     <tr valign="top">
       <td align="center" width="25%">
@@ -44,12 +42,12 @@
         <img height="65px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
       </td>
       <td align="center" width="25%">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="65px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span>Node and Express</span><br><br><br>
+        <img height="65px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
       <td align="center" width="25%">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="65px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>Git</span><br><br><br>
+        <img height="65px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
     </tr>
   </tbody>
